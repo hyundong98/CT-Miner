@@ -1,0 +1,144 @@
+{
+  "files": [
+    {
+      "path": "baseline/opp/reference/OPP_Miner.java",
+      "sha256": "85b8a916fd4647716da493e3c982e6184f9d7336ac3542a6558ddf4a0cdda5eb",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "url": "https://raw.githubusercontent.com/wuc567/Pattern-Mining/ce8ff740cf1aef800ac3474db8533b76d5b68307/OPF-Miner/Algorithms/OPP_Miner.java"
+    },
+    {
+      "path": "baseline/efo/reference/EFO_Miner.java",
+      "sha256": "ffc44e549ff7f1f8e728ae60eae87e246ff22ae224172f9d9ee513eb363e756a",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "url": "https://raw.githubusercontent.com/wuc567/Pattern-Mining/ce8ff740cf1aef800ac3474db8533b76d5b68307/OPF-Miner/Algorithms/EFO_Miner.java"
+    },
+    {
+      "path": "baseline/opf/reference/OPF_Miner.java",
+      "sha256": "90ee5d99872f2faa487dee075567c978b2a3cdd48406aa3c5ba965149a84772a",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "url": "https://raw.githubusercontent.com/wuc567/Pattern-Mining/ce8ff740cf1aef800ac3474db8533b76d5b68307/OPF-Miner/Algorithms/OPF_Miner.java"
+    },
+    {
+      "path": "baseline/copp/reference/COPP_Miner.java",
+      "sha256": "2996a17ebedb5d6e3408403c256bbf60bc3497a26636ac6ac4c3236e0ca6de5b",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "url": "https://raw.githubusercontent.com/wuc567/Pattern-Mining/ce8ff740cf1aef800ac3474db8533b76d5b68307/COPP-Miner/algorithms/COPP_Miner.java"
+    },
+    {
+      "path": "baseline/copp/reference/MemoryLogger.java",
+      "sha256": "7001c67f8663cc53a7966605aedb57555dab667a613539015ae4816e5d246d1a",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "url": "https://raw.githubusercontent.com/wuc567/Pattern-Mining/ce8ff740cf1aef800ac3474db8533b76d5b68307/COPP-Miner/algorithms/MemoryLogger.java"
+    },
+    {
+      "path": "baseline/opst/reference/Makefile",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/Makefile",
+      "sha256": "0e4bb7f30063b95d91ba5af80788312e3688bec8ad3b36e55b311b9806be0ddb",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/OPST.cpp",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/OPST.cpp",
+      "sha256": "db5bc4cf236e3a817a54f232258bce430aee2058733d0f0df118408e7a57acfd",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/OPST.h",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/OPST.h",
+      "sha256": "567477b18709ccedfbff4a851287ec138e763d8e8366c7ef56b1fb2fcdf37b07",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/OPST_construction.cpp",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/OPST_construction.cpp",
+      "sha256": "e2b613bba4238bcd50abe113a0027d840f0d5e686d63afdd7b6d552f5389a2ce",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/README.md",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/README.md",
+      "sha256": "00332ac5d16023dae49232f77c9eda1e473a4b58318477c6db2b193fe1b0e77d",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/cmdline.h",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/cmdline.h",
+      "sha256": "bfdc2300b490cc5b9f4a591681e1554044bc36da084f434caea9fbda6af4b8fd",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/karp_rabin_hashing.hpp",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/karp_rabin_hashing.hpp",
+      "sha256": "5cf9746e09c8bebbff20e82d9a4d399cf352fb3f0e31fbab8b3ebe52ed39870d",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/node.cpp",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/node.cpp",
+      "sha256": "1ff81cc0f00115a5f7726ac24f319bcd1f250f8906092bdca94b8fadd6020706",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/node.h",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/node.h",
+      "sha256": "9212a33a156e0bc228c515ba167048f8a682abc2f1d8a8d474889f1f35fbe7b3",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/utils.cpp",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/utils.cpp",
+      "sha256": "7b011a5077ac40a6032fc146964f79e4b8cb3245fd07ba95fbece51b298c884f",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/opst/reference/utils.hpp",
+      "url": "https://raw.githubusercontent.com/LINGLI97/OPST/a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2/utils.hpp",
+      "sha256": "7df5e7b87812cfd749b57c56fa9de571eb3a60ae92fecea4056aabfd5b50fc4d",
+      "repository": "LINGLI97/OPST",
+      "revision": "a79a6f6f74e6679d52743fc39f2f1fc7c63da2c2"
+    },
+    {
+      "path": "baseline/sopp/reference/SOPP-Miner.py",
+      "url": "https://raw.githubusercontent.com/wuc567/Pattern-Mining/ce8ff740cf1aef800ac3474db8533b76d5b68307/SOPP-Miner/Algorithms/SOPP-Miner.py",
+      "sha256": "51e1c9db07d6fb06eef875155b286023408962841a2dcbc407b28bc3cae37261",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307"
+    },
+    {
+      "path": "baseline/opr/reference/OPR-Miner.cpp",
+      "sha256": "d0498f47dad228fadd0986b10cc0ce1a5a21c300f435a4ddf4faaf0ef7360569",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "source": "OPR-Miner/algorithms/OPR-Miner.cpp"
+    },
+    {
+      "path": "baseline/opr/reference/OPR-Rule.cpp",
+      "sha256": "661bcd749968bd753850b6292790f2aae50755322625b0cea9c1550861fe33dd",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "source": "OPR-Miner/algorithms/OPR-Rule.cpp"
+    },
+    {
+      "path": "baseline/mopp/reference/MOPP-Miner.cpp",
+      "sha256": "eff0b29214d376f67749b91134c63964bb76e5dc2fcd6d7b267f6d866af983ac",
+      "repository": "wuc567/Pattern-Mining",
+      "revision": "ce8ff740cf1aef800ac3474db8533b76d5b68307",
+      "source": "OPP-Miner/extracted/OPP-Miner_code/OPP-Miner_code/MOPP-Miner.cpp"
+    }
+  ]
+}

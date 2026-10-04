@@ -1,0 +1,44 @@
+{
+  "Beef": {
+    "samples": 60,
+    "length": 470,
+    "classes": 5,
+    "values_sha256": "9ee65be977691230023e26e06ec589894c120afd8a6a5bf1e32e264ac7d27187",
+    "labels_sha256": "6bea6a46a18cd62ddb1b4c87207b0fcc72cf39b0379da5403089b38d4517694d"
+  },
+  "Car": {
+    "samples": 120,
+    "length": 577,
+    "classes": 4,
+    "values_sha256": "59ea3b91f96d93876c2b66d7d435cbca3398e83a2e5ac9bec14722913b7a5808",
+    "labels_sha256": "ebc0a6e952bfb2ec5341f072cedfb6c72cc6996c2636cccae0ea24f1cece0e96"
+  },
+  "ElectricDevices": {
+    "samples": 16637,
+    "length": 96,
+    "classes": 7,
+    "values_sha256": "360b37ef4e3d7fe133b338f8c9a080ba991248c289a4cf9b82e5d46a67f6cb31",
+    "labels_sha256": "8063f8e8085c1d59b2e653315d786fe7160673bfa00c27614b05a2bc635dd4ce"
+  },
+  "MoteStrain": {
+    "samples": 1272,
+    "length": 84,
+    "classes": 2,
+    "values_sha256": "3a9fbddd55b6b93b8118aaf4b041ce1f0367fa1ef3317ece30c73de6517d445e",
+    "labels_sha256": "582cf9abd8d6e795e1ee4b819941a2550d8ec78ca482daadeebdede556330a37"
+  },
+  "PigCVP": {
+    "samples": 312,
+    "length": 2000,
+    "classes": 52,
+    "values_sha256": "322bdfaf7914b4ff62806791ad86afa6d251e2691190a1fd3ead94fae2598dc7",
+    "labels_sha256": "5fb0c518796111ae78e68fb7da23aa7c448015e6ddb05b263941647b433f3f1a"
+  },
+  "Wafer": {
+    "samples": 7164,
+    "length": 152,
+    "classes": 2,
+    "values_sha256": "becd746fb17b98e203dd2f74f5803d5114f8c5773d96befff31d93cf39af5d9a",
+    "labels_sha256": "39a72bfd783f98cf1aaa917524c1e7750f30194a8a65b5119e7e3259c386dbee"
+  }
+}

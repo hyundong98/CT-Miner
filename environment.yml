@@ -1,0 +1,8 @@
+name: ct-miner
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - openjdk=25.0.2=*_0
+  - pip
